@@ -1,6 +1,6 @@
 ### Hi there, I am Faizan Shaik 👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fyzanshaik&show_icons=true&theme=radical" />
-<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fyzanshaik&layout=compact)](https://github.com/fyzanshaik/github-readme-stats" />
+<img align="left" width="30%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fyzanshaik&layout=compact)](https://github.com/fyzanshaik/github-readme-stats" />
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
