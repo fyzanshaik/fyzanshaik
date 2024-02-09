@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Faizan Shaik</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fyzanshaik&label=Profile%20views&color=0e75b6&style=flat" alt="fyzanshaik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fyzanshaik" alt="fyzanshaik" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fyzanshaik" target="blank"><img src="https://img.shields.io/twitter/follow/fyzanshaik?logo=twitter&style=for-the-badge" alt="fyzanshaik" /></a> </p>
-
 - 🌱 I’m currently learning **GoLang, Reactjs, Nodejs , MongoDB**
 
 - 📝 I regularly write articles on [https://fyzanshaik.hashnode.dev/](https://fyzanshaik.hashnode.dev/)
@@ -13,7 +7,6 @@
 
 - 📫 How to reach me **fyzanshaik.work@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
