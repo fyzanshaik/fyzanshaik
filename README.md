@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Shaik</h1>
-📝 I write articles on [https://fyzanshaik.hashnode.dev/](https://fyzanshaik.hashnode.dev/)
-💬 Ask me about **Nodejs & GoLang**
-📫 How to reach me **fyzanshaik.work@gmail.com**
+- 📝 I write articles on [https://fyzanshaik.hashnode.dev/](https://fyzanshaik.hashnode.dev/)
+- 💬 Ask me about **Nodejs & GoLang**
+- 📫 How to reach me **fyzanshaik.work@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
