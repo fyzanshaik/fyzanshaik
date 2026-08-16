@@ -4,9 +4,11 @@ Hey, I am Faizan.
 
 I am a software engineer at [Atlan](https://atlan.com). I work on developer infrastructure for building and running data applications. Most of my work at Atlan is public through my work account, [@fyzanshaik-atlan](https://github.com/fyzanshaik-atlan).
 
-I work primarily on the [Atlan Application SDK](https://github.com/atlanhq/application-sdk), a Python toolkit for building applications and data connectors on the Atlan platform. It handles application configuration, credentials, workflow orchestration, metadata extraction, storage, observability, and the path from local development to production.
+I work primarily on building connector applications and contributing to the [Atlan Application SDK](https://github.com/atlanhq/application-sdk). Connector applications connect to external data sources, extract their metadata, and bring that context into Atlan.
 
-My work there includes the native application contract system, pre-run source and configuration validation, runtime reliability, Dapr and Temporal integration, object storage, security, conformance testing, and developer tooling. I am one of the project's primary contributors and a code owner for the contract toolkit.
+The Application SDK is a Python toolkit for building and running these applications on the Atlan platform. It handles application configuration, credentials, workflow orchestration, metadata extraction, storage, observability, and the path from local development to production.
+
+My SDK work includes the native application contract system, pre-run source and configuration validation, runtime reliability, Dapr and Temporal integration, object storage, security, conformance testing, and developer tooling. I am one of the project's primary contributors and a code owner for the contract toolkit.
 
 Outside work, I build developer tools and smaller implementations of systems I want to understand. I am currently interested in AI agents, distributed systems, low-level programming, programming language runtimes, and machine learning.
 
