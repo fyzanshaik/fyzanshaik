@@ -12,6 +12,7 @@ Outside work, I build developer tools and smaller implementations of systems I w
 
 You can find my open-source contributions across the repositories below. They include focused fixes, features, documentation, and improvements made while learning to navigate unfamiliar codebases and collaborate within established projects.
 
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent)
 - [Dapr](https://github.com/dapr/dapr)
 - [Dapr CLI](https://github.com/dapr/cli)
 - [Go](https://github.com/golang/go)
