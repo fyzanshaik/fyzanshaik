@@ -10,11 +10,7 @@ Outside work, I build developer tools and smaller implementations of systems I w
 
 ## Open source
 
-Open source has been a major part of how I learned software engineering.
-
-I have worked on [Hermes Agent](https://github.com/NousResearch/hermes-agent), an extensible personal AI agent built by Nous Research. My work has involved understanding and improving a large agent system across its conversation loop, tools, sessions, providers, desktop experience, and supporting infrastructure.
-
-I have also made smaller contributions to projects including:
+You can find my open-source contributions across the repositories below. They include focused fixes, features, documentation, and improvements made while learning to navigate unfamiliar codebases and collaborate within established projects.
 
 - [Dapr](https://github.com/dapr/dapr)
 - [Dapr CLI](https://github.com/dapr/cli)
@@ -26,7 +22,7 @@ I have also made smaller contributions to projects including:
 - [TanStack](https://github.com/TanStack/tanstack.com)
 - [Appwrite](https://github.com/appwrite/website)
 
-These were mostly focused contributions rather than long-term maintainer roles. They helped me learn how to enter unfamiliar codebases, understand existing design decisions, communicate changes, and work within established engineering practices.
+These are focused contributions rather than long-term maintainer roles, but they reflect the kind of systems I enjoy learning from and contributing to.
 
 ## Projects
 
