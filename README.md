@@ -4,7 +4,7 @@ Hey, I am Faizan.
 
 I am a software engineer at [Atlan](https://atlan.com). I work on developer infrastructure for building and running data applications. Most of my work at Atlan is public through my work account, [@fyzanshaik-atlan](https://github.com/fyzanshaik-atlan).
 
-I build connector applications and the [Atlan Application SDK](https://github.com/atlanhq/application-sdk) that powers them. Connectors extract metadata from external sources like PostgreSQL, Trino, MSSQL, Presto, and AWS Glue into Atlan. As a primary contributor and code owner for the contract toolkit, my SDK work covers the contract system, pre-run validation, runtime reliability, Dapr and Temporal integration, object storage, security, conformance testing, and developer tooling.
+I build connector applications and the [Atlan Application SDK](https://github.com/atlanhq/application-sdk) that powers them. Connectors extract metadata from external sources like PostgreSQL, Trino, MSSQL, Presto,AWS Glue into Atlan & many more sources. As a primary contributor and code owner for the contract toolkit, my SDK work covers the contract system, pre-run validation, runtime reliability, Dapr and Temporal integration, object storage, security, conformance testing, and developer tooling.
 
 Outside work, I build developer tools and smaller implementations of systems I want to understand. I am currently interested in AI agents, distributed systems, low-level programming, programming language runtimes, and machine learning.
 
