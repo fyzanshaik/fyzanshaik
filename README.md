@@ -8,12 +8,14 @@ Earlier at Atlan I built the SDK's toolkit standard, the thing that says what a 
 
 Most of my work at Atlan is public through my work account, [@fyzanshaik-atlan](https://github.com/fyzanshaik-atlan).
 
-Outside work I build developer tools and small versions of systems I want to understand. Right now that means AI agents, distributed systems, low-level programming, language runtimes, and machine learning.
+Outside work I tinker around. Recently I got FIFA Street (2012) running on macOS, and I like building small versions of systems I want to understand.
 
 ## Projects
 
 Some things I have built:
 
+- [FIFA Street PC port](https://github.com/fyzanshaik/fifa-street-pc-port), an experimental macOS port of FIFA Street (2012), built with ReXGlue.
+- [touchgrass](https://github.com/fyzanshaik/touchgrass), free, self-hosted site blocking for families, powered by Cloudflare.
 - [cachewatch](https://github.com/fyzanshaik/cachewatch), a native macOS menu bar monitor for Claude Code sessions.
 - [dirgo](https://github.com/fyzanshaik/dirgo), a CLI and MCP server that generates compact project context for developers and AI agents.
 - [BookMyEvent](https://github.com/fyzanshaik/bookmyevent-ily), a concurrent event-booking backend in Go, with PostgreSQL, Redis, and Elasticsearch.
@@ -26,17 +28,6 @@ Some things I have built:
 - [Gator](https://github.com/fyzanshaik/gator-fetch-rss-feeds), a command-line RSS aggregator backed by PostgreSQL.
 
 There are older apps, extensions, CLI tools, and experiments on this account too. They are not how I build today, but they are how I learned.
-
-## Currently learning
-
-- AI agents and the infrastructure around them
-- Distributed systems, especially failure handling
-- Operating systems, networking, and memory
-- Low-level programming
-- Machine learning systems
-- Designing SDKs and developer tools people can rely on
-
-I learn by reading real implementations, building a mental model, then writing a smaller version myself.
 
 ## Links
 
