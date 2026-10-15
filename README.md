@@ -2,9 +2,7 @@
 
 Hey, I am Faizan.
 
-I am a software engineer at [Atlan](https://atlan.com). I build and maintain connectors that pull metadata into Atlan from SQL databases, BI tools, and other sources: PostgreSQL, Trino, AWS Glue, Monte Carlo, and more. I contribute to the [Atlan Application SDK](https://github.com/atlanhq/application-sdk) that those connectors run on, mostly around Dapr and Temporal integration, object storage, and security.
-
-Earlier at Atlan I built the contract toolkit.
+I am a software engineer at [Atlan](https://atlan.com). I build and maintain connectors that pull metadata into Atlan from SQL databases, BI tools, and other sources: PostgreSQL, Trino, AWS Glue, Monte Carlo, and more. I contribute to the [Atlan Application SDK](https://github.com/atlanhq/application-sdk) that those connectors run on, mostly around Dapr and Temporal integration, object storage, and security. Earlier I built the contract toolkit.
 
 Most of my work at Atlan is public through my work account, [@fyzanshaik-atlan](https://github.com/fyzanshaik-atlan).
 
