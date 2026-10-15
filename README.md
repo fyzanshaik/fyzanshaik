@@ -10,23 +10,6 @@ Most of my work at Atlan is public through my work account, [@fyzanshaik-atlan](
 
 Outside work I build developer tools and small versions of systems I want to understand. Right now that means AI agents, distributed systems, low-level programming, language runtimes, and machine learning.
 
-## Open source
-
-Contributions to other people's projects, mostly small fixes and features:
-
-- [Hermes Agent](https://github.com/NousResearch/hermes-agent)
-- [Dapr](https://github.com/dapr/dapr)
-- [Dapr CLI](https://github.com/dapr/cli)
-- [Go](https://github.com/golang/go)
-- [DigitalOcean godo](https://github.com/digitalocean/godo)
-- [Docker Docs](https://github.com/docker/docs)
-- [OpenCode](https://github.com/anomalyco/opencode)
-- [Supermemory](https://github.com/supermemoryai/supermemory)
-- [TanStack](https://github.com/TanStack/tanstack.com)
-- [Appwrite](https://github.com/appwrite/website)
-
-Not maintainer roles, but these are the systems I like learning from.
-
 ## Projects
 
 Some things I have built:
